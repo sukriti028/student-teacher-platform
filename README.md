@@ -1,3 +1,3 @@
 ### student-teacher-platform
 
-[##first page is home page](localhost/p)
+[##first page is home page](http://localhost/p)
